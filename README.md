@@ -30,7 +30,6 @@ I maintain a **proactive mindset**, produce **clear documentation**, and ensure 
 
 I’m building a portfolio showcasing my work in **test automation**, **API validation**, and **QA documentation**.  
 Each project reflects **clean automation architecture**, **maintainable code**, and a **solid testing strategy**.  
-🔗 Repositories will be available here soon.
 
 ---
 
